@@ -17,6 +17,7 @@ Grades and scores are not used to create the clusters.
 The goal is to identify natural groups of students with similar characteristics and then examine whether these groups show differences in academic performance.
 
 Project Motivation
+
 We chose this problem because student performance can be influenced by many factors, such as study habits, absences, personal characteristics, and social factors. However, it can be difficult to understand which factors are associated with students’ final performance by simply looking at the raw data.
 
 Understanding these factors is important because it can provide useful insights into student performance and help identify students who may need additional academic support.
