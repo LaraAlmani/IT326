@@ -9,7 +9,7 @@ However, it can be difficult to understand how these factors are related to stud
 
 We're tackling two problems with it:
 
-- Classification: Predicting a student’s final grade using academic, personal, and behavioral factors. 
+- Classification: Predicting a students final grade using academic, personal, and behavioral factors. 
 The final_grade is used as the class label, with possible categories A, B, C, D, and F. Features such as study hours, attendance rate, assignment score, midterm score, internet access, parent education, sleep hours, stress level, part-time job status, and extracurricular activities are used for the prediction.
 
 - Clustering: Grouping students based on similar personal, academic, and behavioral characteristics, such as age, study hours, attendance rate, internet access, sleep hours, part-time job status, stress level, and extracurricular activities.
