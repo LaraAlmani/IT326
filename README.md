@@ -18,7 +18,7 @@ The goal is to identify natural groups of students with similar characteristics 
 
 Project Motivation
 
-We chose this problem because student performance can be influenced by many factors, such as study habits, absences, personal characteristics, and social factors. However, it can be difficult to understand which factors are associated with students’ final performance by simply looking at the raw data.
+We chose this problem because student performance can be influenced by many factors, such as study habits, absences, personal characteristics, and social factors. However, it can be difficult to understand which factors are associated with students final performance by simply looking at the raw data.
 
 Understanding these factors is important because it can provide useful insights into student performance and help identify students who may need additional academic support.
 This dataset also allows us to apply classification to predict whether a student passes or fails and clustering to discover groups of students with similar characteristics and patterns.
