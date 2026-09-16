@@ -1,4 +1,4 @@
-1.Project Information
+Project Information
 
 Project Description
 
