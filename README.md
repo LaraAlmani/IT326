@@ -1,5 +1,3 @@
-Project Information
-
 
 Project Description
 
