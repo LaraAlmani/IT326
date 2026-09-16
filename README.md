@@ -1,5 +1,6 @@
 Project Information
 
+
 Project Description
 
 Student performance is influenced by different academic, demographic, lifestyle, and socioeconomic factors this project uses data from 750 students with 15 features covering these different aspects. However, it can be difficult to understand how these factors are related to students final grades by simply looking at the raw data analyzing this data can help identify patterns and factors associated with different levels of academic performance.
